@@ -7,3 +7,11 @@ body, html {
     width: 100%;
     margin: 0;
 }
+
+header {
+	bgcolor: silver;
+}
+
+header<h1 {
+	color: white;
+}
